@@ -1,0 +1,6 @@
+gdal
+geonetwork 2.11
+python
+  requests
+  lxml
+  gdal

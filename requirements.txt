@@ -4,3 +4,4 @@ python
   requests
   lxml
   gdal
+  jinja2
